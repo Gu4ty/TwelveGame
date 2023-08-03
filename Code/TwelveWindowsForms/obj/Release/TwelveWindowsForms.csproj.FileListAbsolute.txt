@@ -1,0 +1,29 @@
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\bin\Release\TwelveWindowsForms.exe.config
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\bin\Release\TwelveWindowsForms.exe
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\bin\Release\TwelveWindowsForms.pdb
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\bin\Release\Twelve.GameEngine.dll
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.csprojResolveAssemblyReference.cache
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.frmDrawing.resources
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.frmOptions.resources
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.PlayerName.resources
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.Properties.Resources.resources
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.frmScore.resources
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.csproj.GenerateResource.Cache
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.exe
+G:\Universidad\CC\1er año\Programación\T\TwelveWindowsForms\obj\Release\TwelveWindowsForms.pdb
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\bin\Release\TwelveWindowsForms.exe.config
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.exe
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.pdb
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\bin\Release\TwelveWindowsForms.exe
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\bin\Release\TwelveWindowsForms.pdb
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\bin\Release\Twelve.GameEngine.dll
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.frmDrawing.resources
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.frmOptions.resources
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.PlayerName.resources
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.Properties.Resources.resources
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.frmScore.resources
+C:\Users\usser\Desktop\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.csproj.GenerateResource.Cache
+G:\Universidad\CC\1er año\Programación\Twelve\Code\TwelveWindowsForms\bin\Release\TwelveWindowsForms.exe.config
+G:\Universidad\CC\1er año\Programación\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.exe
+G:\Universidad\CC\1er año\Programación\Twelve\Code\TwelveWindowsForms\obj\Release\TwelveWindowsForms.pdb
